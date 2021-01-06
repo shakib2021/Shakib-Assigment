@@ -1,0 +1,292 @@
+body{
+    margin: 0px;
+}
+.top-sec{
+
+height:130px;
+
+}
+.nav{
+  height:80px;  
+  width:100%;
+  background:white;
+}
+.logo{
+    width:60%;
+    height:100%;
+ background:white;
+    float: left;
+}.nav-bar{
+    width:30%;
+    height: 100%;
+    background:white;
+    float: left;
+}
+p{
+    display: inline-block;
+    margin-left: 34px;
+    margin-top:25px;
+   
+}
+p>a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+.second-sec{
+    height:500px;
+}
+.hire-text{
+width:50%;
+height:500px;
+float: left;
+
+}
+.ss{
+ color:rgba(255, 99, 71, 0.747);
+}
+.hire-img{
+    width:50%;
+    height:500px;
+    float: left;
+   
+}
+.img-resize{
+    height:500px;
+    width:80%;
+
+}
+
+.im{
+    font-family: 'Bebas Neue', cursive;
+    font-size:62px;
+  margin-left:15%;
+  color:rgb(17, 17, 97);
+ 
+}
+.para{
+    margin-left:15%;
+color:silver;
+}
+.anchor-hire{
+    padding:15px 40px ;
+    color:white;
+    background:linear-gradient(45deg,lightSalmon,tomato);
+ border-radius: 5px;
+text-decoration: none;
+font-size:21px;
+margin-left:15%;
+}
+/* .anchor-hire>a{
+    text-decoration: none;
+} */
+
+.third-sec{
+ height:500px;  
+ width:100%; 
+}
+.about-img{
+    height:100%;
+    width: 50%;
+    float: left;
+}
+.about-text{
+    height:100%;
+    width: 40%;
+    float: left;
+
+}
+.about-img-resize{
+    height:450px;
+    width:75%;
+    padding-left: 10%;
+}
+.ab{
+    font-family: 'Bebas Neue', cursive;
+    color:rgb(17, 17, 97);
+
+padding-left:32px;
+    font-size: 33px;
+    font-weight: bold;
+}
+.para2{
+   font-size: 17px;
+color:rgba(12, 0, 0, 0.493);
+font-weight: bold;
+}
+.dn{
+  padding: 15px 30px;
+  margin-left: 5%;
+  background:linear-gradient(45deg,lightSalmon,tomato);
+  color:white;
+  margin-top: 2%;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.blank{
+    width:10%;
+}
+.project-sec{
+    height:700px;
+    width:100%;
+    background:#F8F9FC;
+}
+.project-text{
+    height:200px;
+    width:100%;
+}
+.pr{
+    color: rgba(255, 99, 71, 0.644);
+    font-weight: bold;
+    
+}.pr1{
+    font-size: 48px;
+    font-weight: bold;
+    padding-left:35%;
+    padding-top: 5%;
+    font-family: 'Bebas Neue', cursive;
+
+
+}
+.img1{
+    height:200px;
+    width:350px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 9px;
+margin-left: 17px;
+margin-top: 16px;
+    
+}
+.img01{
+    border-radius: 12px;
+    float: left;
+    height:400px;
+    width:388px;
+    background:white;
+margin-left: 40px;
+box-shadow: 3px 3px 20px silver;
+}
+.title{
+    padding-left: 22px;
+    color: rgba(43, 37, 37, 0.781);
+}
+.img-para{
+    padding-left:22px;
+    font-size: 16px;
+    color: gray;
+    
+}
+.article-sec{
+  height:900px; 
+  width:100%; 
+  background: white;
+}
+.article-text{
+    height:550px;
+    width:330px;
+    margin-left:6%;
+}
+.img-article{
+    width:290px;
+    padding-left: 3px;
+}
+.title2{
+    color:rgba(255, 99, 71, 0.589);
+}
+.subtitle{
+    font-family: 'Bebas Neue', cursive;
+   
+    
+}
+.art-para{
+    margin-left:15px;
+    margin-right:10px;
+    color: rgba(37, 28, 28, 0.596);
+}
+.anchor-art{
+    padding:8px 20px;
+    background: tomato;
+    color:white;
+    margin-left:5%;
+    text-decoration: none;
+    border-radius:5px;
+    transition: .5s;
+}
+.anchor-art:hover{
+    border-radius:5px;
+    color: black;
+    background: whitesmoke;
+    transition: .5s;
+    border:2px;
+}
+.work{
+   
+ height:400px;
+ width:100%;
+ background: white;
+ /* background: crimson; */
+}
+.work-shakib{
+height:243px;
+width:70%;
+background-image:url(shapes/Group_33094_1.png);
+background-repeat: no-repeat;
+background-size: cover;
+margin-left: 12%;
+
+}
+.inqu{
+    width:50%;
+    font-size: 62px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+  /* margin-top:25%; */
+   margin-left: 84px; 
+  padding-top:5px; 
+  float: left;
+ 
+}
+ 
+.chat1{
+ height:100%;
+ width:20%;
+  float: left;
+  margin-top: 13%;
+  margin-left: 10%;
+}
+.ch{
+   padding: 20px 30px;
+   background: tomato;
+   color: white;
+   text-decoration:none;
+   
+   border-radius: 5px;
+}
+
+.stay-connect{
+    height:400px;
+    width:100%;
+    background: white;
+}
+.stay{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+font-size: 31px;
+}
+.stay2{
+    text-align: center;
+     color: rgba(128, 128, 128, 0.555);
+}
+.icon{
+   height:60px;
+ 
+  
+margin-left: 43%;
+   /* margin-left: 20%; */
+}
+.icon2{
+    height:40px;
+    width:40px;
+    padding-left: 2px;
+}
